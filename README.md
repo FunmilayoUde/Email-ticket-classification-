@@ -75,8 +75,11 @@ The application will be available at http://127.0.0.1:8000/.
 This project includes a CI pipeline using GitHub Actions. The pipeline automatically runs the test suite whenever changes are pushed to the repository. It also builds the Docker image when a new tag is created.
 
 Future Improvements
+
 Model Optimization: Further fine-tuning of the model could improve performance on certain categories.
+
 Deployment: Deploy the model on a cloud platform (e.g., AWS, Heroku) for production use.
+
 API Enhancements: Add more endpoints for model management (e.g., loading different models).
 
 
